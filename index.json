@@ -1,0 +1,15 @@
+{
+  "manifest": 1,
+  "name": "Index",
+  "nongs": {
+    "youtube": {
+      "song1": {
+        "name": "Bloody Devastation",
+        "artist": "Unknown",
+        "ytID": "ioMRQYqt1bg",
+        "startOffset": 0,
+        "songs": [144169460]
+      }
+    }
+  }
+}
